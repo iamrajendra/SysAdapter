@@ -21,7 +21,6 @@ captures/
 .externalNativeBuild
 .idea/
 BasicSyncAdapter.iml
-app/
 build.gradle
 gradle/
 gradlew
